@@ -1,0 +1,36 @@
+
+
+
+
+.d-flex {
+  display: flex
+}
+
+.jc {
+  justify-content: center
+}
+
+.ai {
+  align-items: center
+}
+
+.as {
+  align-self: center
+}
+
+.f-column {
+  flex-flow: column;
+}
+
+.f-row {
+  flex-flow: row;
+}
+
+
+.error-text {
+  color: #ff8ba0;
+}
+
+.test {
+  background: red;
+}
